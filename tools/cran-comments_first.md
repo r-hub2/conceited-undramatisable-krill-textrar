@@ -4,10 +4,10 @@
     * Windows 11, R 4.3.3
     * Mac OS 11 Big Sur, R 4.3.3
 * devtools::check_win_devel()
-* devtools::check_rhub()
-    * Windows Server 2022, R-devel, 64 bit
-    * Ubuntu Linux 20.04.1 LTS, R-release, GCC
-    * Fedora Linux, R-devel, clang, gfortran
+* rhub::rc_submit()
+    * ubuntu-latest on GitHub
+    * macos-latest on GitHub
+    * windows-latest on GitHub
 
 # R CMD check results
 
