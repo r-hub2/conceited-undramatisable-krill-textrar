@@ -8,6 +8,7 @@
     * ubuntu-latest on GitHub
     * macos-latest on GitHub
     * windows-latest on GitHub
+    <https://github.com/r-hub2/conceited-undramatisable-krill-textrar/actions>
 
 # R CMD check results
 
