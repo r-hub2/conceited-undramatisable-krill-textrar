@@ -1,4 +1,4 @@
-## TexTra
+## textrar
   # https://mt-auto-minhon-mlt.ucri.jgn-x.jp/
 library(httr)
 library(jsonlite)
